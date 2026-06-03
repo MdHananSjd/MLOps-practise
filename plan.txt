@@ -1,0 +1,6 @@
+Agenda:
+1. github setup
+ - new environment
+ - setup.py (mini project structure)
+ - requirements.txt
+ 
