@@ -3,4 +3,6 @@ Agenda:
  - new environment
  - setup.py (mini project structure)
  - requirements.txt
+
+2. src folder and package build
  
