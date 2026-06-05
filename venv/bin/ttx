@@ -1,4 +1,4 @@
-#!/Users/hnn/Dev/MLOps/venv/bin/python3.12
+#!/Users/hnn/Dev/MLOps/venv/bin/python
 import sys
 from fontTools.ttx import main
 if __name__ == '__main__':
